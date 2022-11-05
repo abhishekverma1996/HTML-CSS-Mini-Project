@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    float: left;
+    width: 100%;
+    clear: both;
+    /* border-bottom: 1px solid red; */
+}
+.header{
+    position: fixed;
+    float: left;
+    /* border-bottom: 1px solid blue; */
+    width: 100%;
+    /* background-color: black; */
+    padding: 15px 0px;
+    background-color: #BA63F9;
+}
+.container{
+    width: 1200px;
+    /* border-top: solid rgb(255, 0, 0); */
+    margin: 0px auto;
+}
+.logo{
+    float: left;
+}
+.logo h1{
+    font-family: sans-serif;
+    color:#D4F63A;
+}
+.menus{
+    float: right;
+}
+.menus ul{
+    /* border: 1px solid green; */
+    margin-top: 5px;
+}
+.menus ul li{
+    display: inline;
+    margin: 0px 15px;
+}
+.menus ul li a{
+    font-size: 20px;
+    color:#D4F63A;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.section1{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://source.unsplash.com/1600x900/?mountain");
+    background-attachment: fixed;
+    /* height: 50px; */
+
+    background-size: 100%;
+}
+.section2{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://source.unsplash.com/1600x900/?underwater");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+.section3{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://source.unsplash.com/1600x900/?nature");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+.section4{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://source.unsplash.com/1600x900/?animal");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+.section5{
+    float: left;
+    width: 300%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://source.unsplash.com/1600x900/?birds");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+.section-light{background-color: #C7F4F7;
+    color: #053B09;
+}
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.btn{
+    padding: 10px 25px;
+    font-size: 20px;
+    margin-left: calc(50% - 123px);
+    /* position: absolute;
+    text-align: center; */
+    border: 2px white;
+    background: rgba(0,0,0,0.5);
+    color:white;
+}
+    footer {
+        text-align: center;
+        padding: 2rem 1rem;
+        margin: auto;
+        color: #333;
+      }
+      
+      footer h3 {
+        font-size: 3rem;
+        margin-bottom: 0;
+      }
+   
