@@ -21,3 +21,7 @@ And more interesting thing in that is ,whenever you reload the page the images w
 ## Technologies Used
 HTML
 CSS
+
+
+check live demo here 
+https://abhishekverma1996.github.io/HTML-CSS-Mini-Project/
