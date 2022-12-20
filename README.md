@@ -25,3 +25,6 @@ CSS
 
 check live demo here 
 https://abhishekverma1996.github.io/HTML-CSS-Mini-Project/
+
+netlify live demo here
+https://parallexphotography.netlify.app/
